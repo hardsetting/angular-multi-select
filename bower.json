@@ -1,6 +1,6 @@
 {
   "name": "hardsetting-angular-multiselect",
-  "version": "v4.0.1",
+  "version": "v4.0.0",
   "main": [
     "isteven-multi-select.js",
     "isteven-multi-select.css"
@@ -24,5 +24,8 @@
   "authors": [
     "Gabriele Della Casa Venturelli <hardsetting@gmail.com>"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "angular": "~1.3.15"
+  }
 }
